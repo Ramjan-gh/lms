@@ -5,5 +5,5 @@
 @tailwind utilities;
 
 *{
-    font-size: outfit;
+    font-family: outfit;
 }
