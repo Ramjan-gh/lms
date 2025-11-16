@@ -7,6 +7,7 @@ import CallToAction from '../../components/student/CallToAction';
 import Footer from '../../components/student/Footer';
 
 const Home = () => {
+  
   return (
     <div className='text-center text-black'>
       <Hero />
